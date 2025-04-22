@@ -18,7 +18,7 @@ public class App {
 
         try {
             tomcat.start();
-            System.out.println("Server started on http://localhost:2025/");
+            System.out.println("Server started on http://localhost:2025/"); // add ?name=Kareem
             tomcat.getServer().await();
         } catch (LifecycleException e) {
             throw new RuntimeException(e);
