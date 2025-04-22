@@ -10,8 +10,8 @@ This project demonstrates how to run a basic **embedded Tomcat** server and crea
 
 ## Project Structure
 
-App.java: Main class to start the embedded Tomcat server.
-HelloServlet.java: Servlet that handles HTTP requests and displays dynamic greetings.
+- App.java: Main class to start the embedded Tomcat server.
+- HelloServlet.java: Servlet that handles HTTP requests and displays dynamic greetings.
 
 ## Dependencies (Maven)
 - Apache Tomcat 11.0.3 (embedded)
