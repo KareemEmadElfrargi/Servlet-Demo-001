@@ -1,12 +1,12 @@
 # Embedded Tomcat Servlet Project
 
-This project demonstrates how to run a basic **embedded Tomcat** server and create a servlet that dynamically greets a user based on the `name` parameter passed in the URL.
+This project demonstrates how to run a basic **embedded Tomcat** server and create a servlet that dynamically greets a user based on the `userName` parameter passed in the URL.
 
 ## Features
 
 - Embedded **Apache Tomcat 11.0.3** server.
 - Servlet that handles HTTP requests and generates a personalized greeting.
-- Accepts a `name` parameter from the URL to display a dynamic greeting.
+- Accepts a `userName` parameter from the URL to display a dynamic greeting.
 
 ## Project Structure
 
