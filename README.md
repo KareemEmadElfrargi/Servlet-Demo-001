@@ -14,8 +14,8 @@ App.java: Main class to start the embedded Tomcat server.
 HelloServlet.java: Servlet that handles HTTP requests and displays dynamic greetings.
 
 ## Dependencies (Maven)
-Apache Tomcat 11.0.3 (embedded)
-Jakarta Servlet API
+- Apache Tomcat 11.0.3 (embedded)
+- Jakarta Servlet API
 
 
 ## Example of a Personalized Greeting:
